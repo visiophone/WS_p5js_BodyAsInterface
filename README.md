@@ -1,6 +1,6 @@
-Workshop "p5js Body as Interface". <br>
-Processing Community Day Porto 2024. <br>
-(https://pcd.fba.up.pt/2024/)<br>
+Workshop "p5js Body as Interface" <br>
+[Processing Community Day Porto 2024](https://pcd.fba.up.pt/2024/) <br>
+<br>
 
 The workhsop introduced the machine learning library ml5 library facemesh, handpose & blazepose.
 
