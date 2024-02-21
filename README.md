@@ -5,6 +5,13 @@ The workshop explored experimental human-computer interactions using the body as
 <br>
 [Collections of sketches on p5js editor used on the Workshop](https://editor.p5js.org/visiophone/collections/ewYf2gJo_)
 <br>
-[Intro to p5js](https://editor.p5js.org/visiophone/collections/5qzfN2EY0)
+The folder "Body_As_Interface_p5jsCode" has all the code examples explored in the workshop (Handpose, Blazepose, and Facemesh models). The examples started by "00" are the original examples from ml5 used as starting points. The complete ml5 examples collection can be found [here] (https://editor.p5js.org/ml5/collections/pUzWMkdmE)
+<br>
+The PDF [WS_PCD_BodyAsInterface_examplesCode.pdf](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_examplesCode.pdf) covers step by step the code examples
+<br>
+The PDF [WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf) has a short historical background on using the body as interface
 
-
+<br>
+<br>
+<br>
+BONUS: For p5js begginers check [Intro to p5js examples](https://editor.p5js.org/visiophone/collections/5qzfN2EY0)
