@@ -11,7 +11,7 @@ The complete ml5 examples collection can be found [here] (https://editor.p5js.or
 <br>
 The PDF ["WS_PCD_BodyAsInterface_examplesCode.pdf"](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_examplesCode.pdf) covers step by step the code examples
 <br>
-The PDF ["WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf"](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf) has a short historical background on using the body as interface<br>
+The PDF ["WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf"](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf) has a short historical on using the body as interface<br><br>
 For more check references:<br>
 [Sound-Vision-Movement blog](https://s-v-m.tumblr.com/tagged/motion%20sculptures);<br>
 ["S+V+M: Relationships between the Sound, Visual and Movement domains in Interactive Systems" PhD thesis](https://repositorio-aberto.up.pt/handle/10216/116201?locale=en);
