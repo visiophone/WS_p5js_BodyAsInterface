@@ -10,10 +10,10 @@ The examples started by "00" are the original examples from ml5 used as starting
 <br>
 The PDF ["WS_PCD_BodyAsInterface_examplesCode.pdf"](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_examplesCode.pdf) covers step by step the code examples. The PDF ["WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf"](https://github.com/visiophone/WS_p5js_BodyAsInterface/blob/main/WS_PCD_BodyAsInterface_ShortHistoricalBackground.pdf) has a short historical on using the body as interface<br><br>
 For more check references:<br>
-[Sound-Vision-Movement blog](https://s-v-m.tumblr.com/tagged/motion%20sculptures);<br>
-["S+V+M: Relationships between the Sound, Visual and Movement domains in Interactive Systems" PhD thesis](https://repositorio-aberto.up.pt/handle/10216/116201?locale=en);<br>
-[Golan Levin Expanded Body lecture](https://github.com/golanlevin/lectures/tree/master/lecture_expanded_body)<br>
-[MIT Future Sketches Group - Zach Lieberman](https://www.media.mit.edu/groups/future-sketches/overview/)
+.[Sound-Vision-Movement blog](https://s-v-m.tumblr.com/tagged/motion%20sculptures);<br>
+.["S+V+M: Relationships between the Sound, Visual and Movement domains in Interactive Systems" PhD thesis](https://repositorio-aberto.up.pt/handle/10216/116201?locale=en);<br>
+.[Golan Levin Expanded Body lecture](https://github.com/golanlevin/lectures/tree/master/lecture_expanded_body);<br>
+.[MIT Future Sketches Group - Zach Lieberman](https://www.media.mit.edu/groups/future-sketches/overview/).
 
 <br>
 <br>
